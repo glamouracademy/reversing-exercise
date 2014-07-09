@@ -1,3 +1,3 @@
 reversing-exercise
 ==================
-takes a string "How are you?" and outputs "?uoy era woH"
+takes a string "How are you?" and outputs "woH era ?uoy"
